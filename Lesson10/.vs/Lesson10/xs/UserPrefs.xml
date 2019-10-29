@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{EE805ADE-6311-4118-ADAD-0C021002E633}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArrayStaticMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CompareArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MinMaxArray FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
+    <Files>
+      <File FileName="Arrays/Program.cs" Line="19" Column="52" IsPinned="True" />
+      <File FileName="Lesson10/Program.cs" Line="1" Column="1" />
+      <File FileName="StringArray/Program.cs" Line="1" Column="1" />
+      <File FileName="Homework4/Program.cs" Line="1" Column="1" />
+      <File FileName="ArrayStaticMethods/Program.cs" Line="1" Column="1" />
+      <File FileName="CompareArrays/Program.cs" Line="19" Column="66" />
+      <File FileName="MinMaxArray/Program.cs" Line="9" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson10" expanded="True">
+            <Node name="Arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ArrayStaticMethods" expanded="True" />
+            <Node name="CompareArrays" expanded="True" />
+            <Node name="Homework4" expanded="True" />
+            <Node name="Lesson10" expanded="True" />
+            <Node name="MinMaxArray" expanded="True" />
+            <Node name="StringArray" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StringArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Homework4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

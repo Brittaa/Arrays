@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays.deps.json
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays.runtimeconfig.json
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/bin/Debug/netcoreapp3.0/CompareArrays.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/obj/Debug/netcoreapp3.0/CompareArrays.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/obj/Debug/netcoreapp3.0/CompareArrays.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/obj/Debug/netcoreapp3.0/CompareArrays.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/CompareArrays/obj/Debug/netcoreapp3.0/CompareArrays.pdb

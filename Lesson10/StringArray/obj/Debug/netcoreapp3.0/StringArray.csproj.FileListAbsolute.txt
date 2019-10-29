@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray.deps.json
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray.runtimeconfig.json
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/bin/Debug/netcoreapp3.0/StringArray.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/obj/Debug/netcoreapp3.0/StringArray.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/obj/Debug/netcoreapp3.0/StringArray.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/obj/Debug/netcoreapp3.0/StringArray.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/StringArray/obj/Debug/netcoreapp3.0/StringArray.pdb

@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4.deps.json
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4.runtimeconfig.json
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/bin/Debug/netcoreapp3.0/Homework4.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/obj/Debug/netcoreapp3.0/Homework4.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/obj/Debug/netcoreapp3.0/Homework4.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/obj/Debug/netcoreapp3.0/Homework4.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/obj/Debug/netcoreapp3.0/Homework4.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/Homework4/obj/Debug/netcoreapp3.0/Homework4.csprojAssemblyReference.cache

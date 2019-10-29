@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray.deps.json
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray.runtimeconfig.json
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/bin/Debug/netcoreapp3.0/MinMaxArray.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/obj/Debug/netcoreapp3.0/MinMaxArray.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/obj/Debug/netcoreapp3.0/MinMaxArray.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/obj/Debug/netcoreapp3.0/MinMaxArray.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/MinMaxArray/obj/Debug/netcoreapp3.0/MinMaxArray.pdb

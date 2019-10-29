@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods.deps.json
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods.runtimeconfig.json
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/bin/Debug/netcoreapp3.0/ArrayStaticMethods.pdb
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/obj/Debug/netcoreapp3.0/ArrayStaticMethods.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/obj/Debug/netcoreapp3.0/ArrayStaticMethods.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/obj/Debug/netcoreapp3.0/ArrayStaticMethods.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/obj/Debug/netcoreapp3.0/ArrayStaticMethods.dll
+/Users/Britta/Desktop/Lesson10/Lesson10/ArrayStaticMethods/obj/Debug/netcoreapp3.0/ArrayStaticMethods.pdb
